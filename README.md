@@ -45,13 +45,12 @@
 
 <div align="center">
 
-| Chapter | Versions | Builds | Range |
-|:-------:|:--------:|:------:|:-----:|
-| [**Chapter 4**](#chapter-4) | 14 | 20 | 24.30 → 27.11 |
-| [**Chapter 5**](#chapter-5) | 25 | 40 | 28.00 → 32.11 |
-| [**Chapter 6**](#chapter-6) | 29 | 51 | 33.00 → 38.11 |
-| [**Chapter 7**](#chapter-7) | 19 | 27 | 39.00 → 42.00 |
-| | **87** | **138** | 24.30 → 42.00 |
+| Chapter | Versions | Builds |
+|:-------:|:--------:|:------:|
+| [**Chapter 4**](#chapter-4) | 14 | 20 |
+| [**Chapter 5**](#chapter-5) | 25 | 40 |
+| [**Chapter 6**](#chapter-6) | 29 | 51 |
+| [**Chapter 7**](#chapter-7) | 19 | 27 |
 
 </div>
 
