@@ -41,7 +41,6 @@
 > **24.20** &nbsp;·&nbsp; CL 25156858 &nbsp;&nbsp;(chunks purged from CDN)<br/>
 > **24.30** &nbsp;·&nbsp; CL 25210886 &nbsp;&nbsp;(chunks purged from CDN)
 
-## At a glance
 
 <div align="center">
 
