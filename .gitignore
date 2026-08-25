@@ -4,5 +4,6 @@ assets/social-preview/
 # draft??????
 thisiswhatgetscommited.txt
 
-discord/
+discord/*.txt
+discord/ALL.txt
 assets/.readme-reference.md
