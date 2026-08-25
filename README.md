@@ -27,26 +27,21 @@
 <br/>
 
 > [!NOTE]
-> This is not every uefn build. Epic took down 7 uefn builds chunks from their CDN
-<img src="assets/divider.svg" width="71.5%" alt=""/>
+> This is not every UEFN build. Epic purged the chunks for 7 builds from their CDN, so those can no longer be downloaded — they are listed below for the record.
 
-
+<img src="assets/divider.svg" width="100%" alt=""/>
 
 > [!IMPORTANT]
 > [<img align="left" width="300" src="splash/4f9623452333e2ad1ac909cbe5185.png" alt="UEFN"/>](https://drive.google.com/file/d/1i8wLZTljOLSi96F26sLRNvROl3nnrgxI/view?usp=sharing)
-> **24.01** &nbsp;-&nbsp; CL 24757023 &nbsp;&nbsp;(chunks purged from CDN)<br/>
-> **24.10** &nbsp;-&nbsp; CL 24903530 &nbsp;&nbsp;(chunks purged from CDN)<br/>
-> **24.20** &nbsp;-&nbsp; CL 24939793 &nbsp;&nbsp;(chunks purged from CDN)<br/>
-> **24.20** &nbsp;-&nbsp; CL 25019967 &nbsp;&nbsp;(chunks purged from CDN)<br/>
-> **24.20** &nbsp;-&nbsp; CL 25058254 &nbsp;&nbsp;(chunks purged from CDN)<br/>
-> **24.20** &nbsp;-&nbsp; CL 25156858 &nbsp;&nbsp;(chunks purged from CDN)<br/>
-> **24.30** &nbsp;-&nbsp; CL 25210886 &nbsp;&nbsp;(chunks purged from CDN)
-<img src="assets/divider.svg" width="84.5%" alt=""/>
->
->
->
->
+> **24.01** &nbsp;·&nbsp; CL 24757023 &nbsp;&nbsp;(chunks purged from CDN)<br/>
+> **24.10** &nbsp;·&nbsp; CL 24903530 &nbsp;&nbsp;(chunks purged from CDN)<br/>
+> **24.20** &nbsp;·&nbsp; CL 24939793 &nbsp;&nbsp;(chunks purged from CDN)<br/>
+> **24.20** &nbsp;·&nbsp; CL 25019967 &nbsp;&nbsp;(chunks purged from CDN)<br/>
+> **24.20** &nbsp;·&nbsp; CL 25058254 &nbsp;&nbsp;(chunks purged from CDN)<br/>
+> **24.20** &nbsp;·&nbsp; CL 25156858 &nbsp;&nbsp;(chunks purged from CDN)<br/>
+> **24.30** &nbsp;·&nbsp; CL 25210886 &nbsp;&nbsp;(chunks purged from CDN)
 
+## At a glance
 
 <div align="center">
 
@@ -60,10 +55,15 @@
 
 </div>
 
+## How to read an entry
+
+| Column | Meaning |
+|:-------|:--------|
+| **Release** | The Epic release heading each block, e.g. ++Fortnite+Release-24.30 — the version number is the tail of the string |
+| **Archived builds** | One link per changelist (CL) — each links to that exact build on Drive. A release with several CLs branches into one node per build; an indented branch marks a fix belonging to the build above it. |
 
 
-
-<img src="assets/divider.svg" width="77%" alt=""/>
+<img src="assets/divider.svg" width="100%" alt=""/>
 
 <a id="chapter-4"></a>
 
@@ -485,30 +485,21 @@
 
 ## Credits
 
-Thanks goes to
-
-<!-- ignore-start -->
-
+<div align="center">
 
 <!-- space -->
-<!-- prettier -->
-<table>
-  <tr>
-    <td align="center"><a href="https://github.com/Mast3rGamers"><img src="assets/credit-mast3rgamers.svg" width="240"/><br/>
-      </tr>
-</table>
-
-For Archiving UEFN release manifests. Without them, The builds couldnt be downloaded
+<!-- markdownlint -->
+<a href="https://github.com/Mast3rGamers"><img src="assets/credit-mast3rgamers.svg" width="240" alt="Mast3rGamers — Manifest Archivist"/></a>
 
 <br/><br/>
 
 <a href="https://ko-fi.com/shrezee">
-  <img src="https://img.shields.io/badge/Ko--fi-Support_the_archive-47d1ff?style=for-the-badge&logo=kofi&logoColor=white&labelColor=0d1a2e" alt="Support Me"/>
+  <img src="https://img.shields.io/badge/Ko--fi-Support_the_archive-47d1ff?style=for-the-badge&logo=kofi&logoColor=white&labelColor=0d1a2e" alt="Support the archive on Ko-fi"/>
 </a>
 
 <br/><br/>
 
-<sub>If u miss a version, its manifest is likely dead. see the note at the top. Season key art fetched from Epic Games © CDN</sub>
+<sub>Missing a version? Its manifest is likely dead — see the note at the top.&ensp;·&ensp;Season key art © Epic Games.</sub>
 
 <br/>
 
